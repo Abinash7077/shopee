@@ -5,7 +5,7 @@ import { Button } from 'flowbite-react';
 function App() {
   return (
     <div className="App">
-        <h1>Hello</h1>
+        <h1>Baaji</h1>
     </div>
   );
 }
